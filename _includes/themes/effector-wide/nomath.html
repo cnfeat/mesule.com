@@ -1,0 +1,32 @@
+<div class="wrapper">
+<article>
+<div>
+{% for tag in page.tags %}
+    <a class="label pull-right" href="/tag/#{{ tag }}">{{ tag }}</a>
+{% endfor %}
+</div>	
+	
+<h1><a href="{{ page.url }}">{{ page.title }}</a> </h1>
+{{ content }}
+</article>
+
+
+
+<div class="wrapper">
+<span class="label label-important">Permanent link </span> <a href=" http://bjt.name{{ page.url }}"> http://bjt.name{{ page.url }}</a><small class="pull-right">{{ page.date | date:"%b %d, %Y" }}</small>
+</div>
+
+<!-- Duoshuo Comment BEGIN -->
+<div class="ds-thread"></div>
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"sunbjt"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0] 
+		 || document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
+	</script>
+<!-- Duoshuo Comment END -->
