@@ -18,7 +18,7 @@ published: true
 下面就是在R语言里，通过<a href="http://cran.r-project.org/web/packages/googleVis/" target="_blank">googleVis</a>包，对我国2006年至今的货币供应量（M0、M1、M2）Motion Chart（将横坐标设置为time以后，点击Play）
 
 
-![](http://bjt.cos.name/wp-content/uploads/2011/07/motion-chart.png)
+![](http://www.wikigender.org/wp-content/uploads/files/MotionChart.PNG)
 
 
 碎碎念：从泡泡的跳动上看，央行投放的货币供应量（亿元）在2009-2011年间，增加的最为剧烈，当然这个时间段也是房价近十年间增长最为迅速的两年。
@@ -29,3 +29,6 @@ published: true
 
 
 最后，关于<a href="http://cran.r-project.org/web/packages/googleVis/" target="_blank">googleVis</a>包的使用请移步至<a href="http://code.google.com/p/google-motion-charts-with-r/" target="_blank">这里</a>。
+
+
+

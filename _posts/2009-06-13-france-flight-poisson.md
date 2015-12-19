@@ -26,15 +26,19 @@ published: true
 	<li><span class="post-footers">法航 447 客机预计飞行的时间为 11 小时。</span></li>
 </ol>
 <span class="post-footers">这种小概率事件我们可以使用 Poisson 分布去拟合，那么飞机被击中的概率就是</span>
-<pre lang="rsplus">
+
+```
 1 - ppois(0,5.7e-13*125*11) 
 [1] 7.8375e-10
-</pre>
+```
+
 飞机被流星击中的概率为7.8375e-10，即<span class="post-footers">第一位7前面有10个零。观众可能没有直观印象，举个例子：双色球的中一等奖的概率是 5.642994e-08</span>，飞机被流星击中的概率是它的百分之一，<span class="post-footers">相差两个数量级。</span>
 
 <span class="post-footers">David Smith 而后又给了一个今后 20 年，所有飞机至少有一架被击中的概率（他给的数据没看明白，直接引用 <a href="http://blogs.discovermagazine.com/cosmicvariance/author/jconway/">John</a> 给的数据）：</span>
-<pre lang="rsplus">
+
+```r
 1 - ppois(0,720e6*5.7e-13*125)
 [1] 0.05000637
-</pre>
+```
+
 <span class="post-footers">很可怕吧！今后二十年，至少有一架被陨石击中的概率达到了 5% ！已经不是小概率事件了！</span>
