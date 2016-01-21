@@ -7,8 +7,9 @@ permalink: /todo/
 
 ## 最近在干嘛 #
 
-- 2015.11 图数据库，主要在使用Neo4j
-- 2015.11 Deep Learning
+- 2016.01 第二次review主题模型 - Structural Topic Model，以及VW和lightlda
+- 2015.11 图数据库，主要在使用Neo4j(Pause)
+- 2015.11 Deep Learning (Done)
 
 ## 完结 #
 
