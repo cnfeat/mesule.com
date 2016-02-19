@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: [01]为什么写邮件通讯？
+title: 为什么写邮件通讯？
 tags: 
 - maillist
 status: publish
