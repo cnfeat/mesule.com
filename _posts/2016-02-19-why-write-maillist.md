@@ -2,6 +2,7 @@
 layout: post
 title: [01]为什么写邮件通讯？
 tags: 
+- maillist
 status: publish
 type: post
 published: true
