@@ -1,12 +1,12 @@
 markdown: rdiscount 
 permalink: /:year/:month/:title 
-title: 刘思喆@贝吉塔行星
-url: http://bjt.name
-subscribe: http://bjt.name/feed
+title: 元认知写作通讯
+url: http://mesule.com
+subscribe: http://mesule.com/feed
 exclude: [ README.md, newpost.rb ]
-domain: www.bjt.name
-author: bjt
-email: sunbjt@gmail.com
-twitterID: sunbjt
-duoshuoShortname: sunbjt
+domain: www.mesule.com
+author: CnFeat
+email: CnFeat@gmail.com
+twitterID: feat
+duoshuoShortname: cnfeat
 safe: true
