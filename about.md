@@ -17,5 +17,10 @@ permalink: /about/
 - http://cnfeat.com 博客
 
 
+## one more thing
+
+I’m convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance.
+- Steve Jobs, Apple
+
 
 
