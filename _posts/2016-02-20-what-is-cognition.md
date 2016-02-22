@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: 【03】元认知是什么？
+title: 元认知是什么？
 tags: 
 - maillist
 status: publish

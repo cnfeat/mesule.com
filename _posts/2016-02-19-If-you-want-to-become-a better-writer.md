@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: 【02】If you want to become a better writer
+title: If you want to become a better writer
 tags: 
 - maillist
 status: publish

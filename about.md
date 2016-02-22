@@ -10,7 +10,7 @@ permalink: /about/
 
 如果你对 元认知 与 写作 感兴趣，欢迎订阅元认知学习通讯，订阅地址：<http://tinyletter.com/cnfeat>
 
-![](http://openmindclub.qiniudn.com/cnfeat/image/MesuleSub.jpg?imageMogr2/thumbnail/500x)
+![](http://openmindclub.qiniudn.com/cnfeat/image/MesuleSub2.jpg?imageMogr2/thumbnail/500x)
 
 
 
