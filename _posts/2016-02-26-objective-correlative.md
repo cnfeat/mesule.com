@@ -1,4 +1,4 @@
-# --- 
+--- 
 layout: post
 title: 客观对应物：写作之旗
 tags: 
