@@ -1,4 +1,4 @@
-markdown: rdiscount 
+markdown: kramdown
 permalink: /:year/:month/:title 
 title: 元认知学习通讯
 url: http://mesule.com
