@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: 成语与神奇数字4
+title: 成语与神奇数字四
 tags: 
 - maillist
 status: publish
@@ -21,7 +21,7 @@ published: true
 
 [科学的事实](https://www.wikiwand.com/zh/%E7%9F%AD%E6%9C%9F%E8%AE%B0%E5%BF%86)是：大脑短期记忆容量最好是四。无论是四个组块、四个层级还是四个词语，无论什么东西，都以「四」的形式存在人类大脑，它都能被大脑舒适地安放着，而中国的成语，其实是占尽了语言优势。
 
-大家先看看这一篇[视觉工作记忆的容量与资源分配](http://118.145.16.229:81/Jweb_xlkxjz/CN/abstract/abstract2983.shtml)，搞清楚了脑子的运作，也就能让写出让别人看得舒服的文章。
+大家先看看这一篇[视觉工作记忆的容量与资源分配](http://pan.baidu.com/s/1i3RbHtj)，搞清楚了脑子的运作，也就能让写出让别人看得舒服的文章。
 
 祝开心
 
