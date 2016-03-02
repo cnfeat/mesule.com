@@ -64,7 +64,7 @@ published: true
 
 最后还是用了简书，为此我还专门建了[「中文玩家」](http://www.jianshu.com/notebooks/3417690/latest)的文集，专门用来满足自己「只看好排版的文章」的习惯。
 
-by the way，简书是我开始写千字文的地方，[《每天写100字》](http://www.jianshu.com/collection/723de9bac3cd)就是我建立的专题，如今已经收录了 35491 文章。如果大家也要开始写作，不妨从向这里投稿的人开始，她们会和你一起。
+by the way，简书是我开始写千字文的地方，[《每天写1000字》](http://www.jianshu.com/collection/723de9bac3cd)就是我建立的专题，如今已经收录了 35491 文章。如果大家也要开始写作，不妨从向这里投稿的人开始，她们会和你一起。
 
 
 祝开心
