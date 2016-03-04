@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: If you want to become a better writer
+title: 如果你想成为一个好作者
 tags: 
 - maillist
 status: publish
