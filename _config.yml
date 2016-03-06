@@ -1,5 +1,5 @@
 markdown: kramdown
-permalink: /:year/:month/:day/:title 
+permalink: /:year/:month/:title 
 title: 元认知学习通讯
 url: http://mesule.com
 subscribe: http://mesule.com/feed
