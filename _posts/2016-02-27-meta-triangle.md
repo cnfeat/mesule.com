@@ -27,7 +27,7 @@ published: true
 
 当然，我们的元认知不是线性，更可能是网络状的，想象一下由无数元认知三角组成的网络，可能就是一张鱼鳞图：鳞次节比。
 
-![](http://openmindclub.qiniudn.com/cnfeat/image/fish-scale.jpg)
+![](http://openmindclub.qiniudn.com/cnfeat/image/fish-scale.jpg?imageMogr2/thumbnail/!50p)
 
 这张网络时时刻刻存在我们的大脑之中，将你输入的消息过滤，转化你对这个世界的认知。
 
