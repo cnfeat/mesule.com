@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Sublime Text：极简 Markdown 编辑器
+title: Sublime Text：我的极简 Markdown 编辑器
 tags: 
 - maillist
 status: publish
