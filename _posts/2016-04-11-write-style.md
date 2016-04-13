@@ -9,9 +9,9 @@ published: true                                                   ---
 
 文体风格是什么？我先讲一个故事。
 
-话说，上周我在写东西，想输入「钱钟书」，输出的却是「钱锺书」，起初我以为是词频的问题，后来调教过几次，依然如此，后来我就在想，是不是输入法的问题。我现在用的输入法是 鼠须管，于是我就检查了鼠须管的设置，发现没有可以设定的地方，于是心灰意冷的我准备接受这个输入法的「Bug」，以后「钱」和「钟书」分开打，算是短暂地解决了问题。
+上周我在鼠须管输入法输入「钱钟书」，打出的却是「钱锺书」，起初我以为是输入法词频的问题，调教过几次依然如此，那是不是输入法的问题呢？检查了鼠须管的设置，没有发现设定的方法，当时我还有其他事情做，继续折腾这个时间成本蛮高的，于是就暂时接受这个输入法的「Bug」，「钱」和「钟书」分开打，算是短暂地解决了问题。
 
-过了一段时间，我突然想，像鼠须管如此高明的输入法，应该不会出现如此低级的「Bug」，于是就 Google 「钱钟书」和「钱锺书」，发现早有人在讨论这个名字的正确写法。
+过了两天，我想，像鼠须管这样的输入法，应该不会出现如此低级的「Bug」吧，于是就 Google 「钱钟书」和「钱锺书」，发现早有人在讨论这个名字的正确写法。
 
 讨论的结果是：「钱锺书」是正确的用法。
 
@@ -23,24 +23,42 @@ published: true                                                   ---
 
 按照《孙庵年谱》的描述，「钱锺书」的「锺」应是感情集中的意思。
 
-理由二：[符合汉字规范](https://www.wikiwand.com/zh/%E9%8C%A2%E9%8D%BE%E6%9B%B8)
+理由二：[符合汉字使用规范](https://www.wikiwand.com/zh/%E9%8C%A2%E9%8D%BE%E6%9B%B8)
 
 2013 年新的《通用规范汉字表》的一级字表收了「钟」，三级字表收了「锺」，并且注明「锺」用于姓氏人名。
 
 所以，「钱锺书」的写法是符合《通用规范汉字表》的，没有问题的。
 
-故事还没有完，后来有人看到我用「钱锺书」这个词，便问我，你这字是不是写错了，我说我这写法没有错，接着就抛一个连接过去，
+以上的故事跟文体风格有什么关系呢？你听我继续说。
+
+后来有人看到我用「钱锺书」这个词，便问我，你这字是不是写错了，他为什么会认为我写错了呢？可能是他老师没教过他这样用，身边没有人会这样用，他看到这个词通常是这样用的。
+
+我说这写法没有错，随后向他说明原因，他就知道了这个字的正确用法，以后他一看到「钱锺书」这三个字，就可能会想起我，想起我曾经钻研过这个字的用法，想起我坚持地用准确的字词，想起我向他传输过正确的东西……这就形成了我的文体风格。
+
+当然，文体风格远远不止我说的那么简单，还包含很多东西，这里我先挖一个大坑，以后慢慢填。
+
+#### 参考资料
+
+- [南方周末 - 钱钟书为什么要写成钱锺书?](http://www.infzm.com/content/57052)
+- [杨舒雯：钱钟书与钱锺书](http://www.21ccom.net/articles/rwcq/article_2012090566961.html)
+- [有趣的问题：是钱钟书？还是钱锺书？](http://www.wtoutiao.com/p/1e7EwXO.html)
+- [是”钱钟书“还是”钱锺书“?](http://t.cn/RqJDS6A)
 
 
+祝开心
 
-里面的段子
+陈素封 谨上
 
-[南方周末 - 钱钟书为什么要写成钱锺书?](http://www.infzm.com/content/57052)
+----
 
-[杨舒雯：钱钟书与钱锺书_共识网](http://www.21ccom.net/articles/rwcq/article_2012090566961.html)
+**六经注我**
 
-[有趣的问题：是钱钟书？还是钱锺书？-心灵治愈大前辈-微头条(wtoutiao.com)](http://www.wtoutiao.com/p/1e7EwXO.html)
+你知道哪篇文章最值用来研究文体风格吗？
 
-[谁来保护“钱钟书”——也从“钱锺书”的“锺”说起 - 《中国学术期刊（网络版）》](http://www.cnki.net/KCMS/detail/detail.aspx?QueryID=2&CurRec=1&recid=&filename=WSZI200401031&dbname=CJFD2004&dbcode=CJFQ&pr=&urlid=&yx=&uid=WEEvREcwSlJHSldTTGJhYlJQaGhGWHpsWWNHZ3VxTHp0SUIyUUIxcVNIRVk3M0Y3RVF6aXlyTm9kNm9NekhIL1BGWT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=Mjg3MDNMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTHlmWStkdUZ5cm5XcnJOTWo3Ulo3RzRIdFhNcm85R1pZUjhlWDE=)
+讲真，是《共产党宣言》。
 
-[是”钱钟书“还是”钱锺书“? - 《中国学术期刊（网络版）》](http://www.cnki.net/KCMS/detail/detail.aspx?QueryID=2&CurRec=2&recid=&filename=YWXX201410033&dbname=CJFDLASN2015&dbcode=CJFQ&pr=CFJD2014;&urlid=&yx=&uid=WEEvREcwSlJHSldTTGJhYlJQaGhGWHpsWWNHZ3VxTHp0SUIyUUIxcVNIRVk3M0Y3RVF6aXlyTm9kNm9NekhIL1BGWT0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MzAzMzMzcVRyV00xRnJDVVJMeWZZK2R1Rnlybldyck9QRHJUZHJHNEg5WE5yNDlHWjRSOGVYMUx1eFlTN0RoMVQ=)
+----
+
+- 邮件订阅：[TinyLetter](http://tinyletter.com/cnfeat) 
+- 查阅存档：[元认知通讯](http://mesule.com) 
+- 我的博客：[读立写生](http://cnfeat.com)
