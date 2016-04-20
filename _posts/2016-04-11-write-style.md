@@ -5,7 +5,9 @@ tags:
 - maillist
 status: publish
 type: post
-published: true                                                   ---
+published: true
+---
+
 
 文体风格是什么？我先讲一个故事。
 
