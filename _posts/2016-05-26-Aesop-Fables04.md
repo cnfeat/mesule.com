@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 故事小谷粒（四）
-date: 2016-02-05
+date: 2016-02-25
 categories: blog
 tags: [故事,寓言]
 description: 程序员说，「找我干嘛？找产品经理去。」
