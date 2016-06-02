@@ -23,6 +23,7 @@ published: true
 使用方法：
 
 - 安装 [Markdown Here](http://markdown-here.com/) 扩展
+- 打开 Markdown Here 设置，将 CSS 代码直接覆盖到 Primary Styling CSS 
 - 粘贴 Markdown 格式文章
 - 点击 Markdown Here 图标
 
