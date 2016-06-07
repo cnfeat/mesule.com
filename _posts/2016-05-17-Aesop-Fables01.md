@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 故事小谷粒（一）
+title: 故事花生米（一）
 date: 2016-05-17
 categories: blog
 tags: [故事,伊索寓言]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 故事小谷粒（二）
+title: 故事花生米（二）
 date: 2016-05-19
 categories: blog
 tags: [寓言,故事]
