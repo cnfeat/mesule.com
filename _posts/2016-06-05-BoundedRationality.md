@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 半个世纪过去，西蒙的小锦囊依然管用
+title: 半个世纪过去，西蒙留下的小锦囊依然管用
 date: 2016-06-09
 categories: blog
 tags: [西蒙,有限理性]
