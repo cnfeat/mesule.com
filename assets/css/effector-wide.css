@@ -107,14 +107,14 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
 h1 {
     line-height: 60px;
     color:	#000000;
-    font-size: 20px;
+    font-size: 21px;
     font-weight: bold;
 }
 h1 small {
     font-size: 20px;;
 }
 h2 {
-    color:  #777;
+    color:  #555555;
     margin:  20px 0px;
     font-weight: bold;
     font-size:  19px;
@@ -125,8 +125,8 @@ h2 small {
     font-size: 18px;
 }
 h3 {
-    line-height: 17px;
-    font-size: 17px;
+    line-height: 18px;
+    font-size: 18px;
     font-weight: bold;
     padding: 10px 30px;
 }
