@@ -49,8 +49,8 @@ img {
 
 body {
     margin: 0;
-    font-family: "Galdeano","Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;
-    font-size: 15px;
+    font-family: 'Lato', "Open Sans", "PingFang SC", "Microsoft YaHei", sans-serif;
+    font-size: 17px;
     line-height: 30px;
     color: #555;
 }
@@ -79,7 +79,7 @@ p a {
 }
 p {
     margin: 0 0 14px;
-    font-family: 'Hiragino Sans GB', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Lato', "Open Sans", "PingFang SC", "Microsoft YaHei", sans-serif;
     font-size: 15px;
     line-height: 30px;
     color: #555;
