@@ -209,10 +209,10 @@ blockquote {
 }
 blockquote p {
     margin-bottom: 0;
-    font-size: 15px;
+    font-size: 17px;
     line-height: 34px;
     font-weight: 300;
-    color:  #8E8E8E;
+    color:  #808080;
 }
 blockquote small {
     display: block;

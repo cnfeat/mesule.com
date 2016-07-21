@@ -78,7 +78,7 @@ description: One of the first rules of science is if somebody delivers a secret 
 
 ----
 
-### 六经注我
+## 六经注我
 
 推荐文章：阳志平《工作谈》系列文章：http://t.cn/R5baMGS 。
 
