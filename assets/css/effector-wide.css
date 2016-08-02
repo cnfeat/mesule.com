@@ -56,7 +56,7 @@ body {
 }
 a {
 /*    color: #F95B1F;  */
-			color:#009688;
+			color:#3b5897;
     text-decoration: none;
 }
 a:hover {
@@ -390,7 +390,7 @@ text-shadow: 0 1px 0 #fff;
 .sitename {
     font-size: 30px;
    /* font-weight: bold;*/
-    color:  #009688;
+    color:  #3b5897;
     text-align:right;
 }
 .wrapper  {
