@@ -56,7 +56,7 @@ body {
 }
 a {
 /*    color: #F95B1F;  */
-			color:#12aa7f;
+			color:#f2876b;
     text-decoration: none;
 }
 a:hover {
@@ -213,7 +213,7 @@ blockquote p {
     font-size: 17px;
     line-height: 34px;
     font-weight: 300;
-    color:  #815f5f;
+    color:  #009480;
 }
 blockquote small {
     display: block;
