@@ -50,13 +50,13 @@ img {
 body {
     margin: 0;
     font-family: 'Lato', "Open Sans", "PingFang SC", "Microsoft YaHei", sans-serif;
-    font-size: 17px;
+    font-size: 16px;
     line-height: 30px;
     color: #815f5f;
 }
 a {
 /*    color: #F95B1F;  */
-			color:#3b5897;
+			color:#12aa7f;
     text-decoration: none;
 }
 a:hover {
@@ -388,9 +388,9 @@ text-shadow: 0 1px 0 #fff;
     visibility: hidden;
 }
 .sitename {
-    font-size: 30px;
+    font-size: 25px;
    /* font-weight: bold;*/
-    color:  #3b5897;
+    color:  #12aa7f;
     text-align:right;
 }
 .wrapper  {
