@@ -1,8 +1,8 @@
 markdown: kramdown
 permalink: /:year/:month/:title 
-title: 元认知学习通讯
-url: http://mesule.com
-subscribe: http://mesule.com/feed
+title: 卡片创作通讯
+url: http://www.mesule.com
+subscribe: http://www.mesule.com/feed
 exclude: [ README.md, newpost.rb ]
 domain: www.mesule.com
 author: CnFeat
