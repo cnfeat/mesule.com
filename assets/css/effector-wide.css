@@ -96,6 +96,7 @@ p small, ul small {
 }
 h1, h2, h3, h4, h5, h6 {
     font-weight: normal;
+    margin: 0 0 14px;
     color: #555;
     margin: 0;
     text-rendering: optimizelegibility;
