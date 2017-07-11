@@ -16,7 +16,7 @@ Hi ~ 我是陈素封，卡片创作通讯是我学习卡片创作的第八大洲
 
 地址：[http://t.xiaomiquan.com/ufe23vv](http://t.xiaomiquan.com/ufe23vv)
 
-![](http://openmindclub.qiniudn.com/omt/ProductList01.jpg?imageMogr2/thumbnail/!50p)
+![](http://openmindclub.qiniudn.com/omt/ProductList01.jpg?imageMogr2/thumbnail/!30p)
 
 ## 小鹅通：每天写1000字改变自己
 
@@ -26,7 +26,7 @@ Hi ~ 我是陈素封，卡片创作通讯是我学习卡片创作的第八大洲
 
 地址：[https://h5.xiaoeknow.com/appmcFwb1Wy8464/](https://h5.xiaoeknow.com/appmcFwb1Wy8464/)
 
-![](http://openmindclub.qiniudn.com/omt/ProductList02.jpg?imageMogr2/thumbnail/!50p)
+![](http://openmindclub.qiniudn.com/omt/ProductList02.jpg?imageMogr2/thumbnail/!30p)
 
 ## 博客/公众号：读立写生
 
@@ -36,7 +36,7 @@ Hi ~ 我是陈素封，卡片创作通讯是我学习卡片创作的第八大洲
 
 地址：[www.cnfeat.com](http://www.cnfeat.com) 
 
-![](http://openmindclub.qiniudn.com/omt/ProductList03.jpg?imageMogr2/thumbnail/!50p)
+![](http://openmindclub.qiniudn.com/omt/ProductList03.jpg?imageMogr2/thumbnail/!30p)
 
 ## 邮件列表：卡片创作通讯
 
@@ -46,7 +46,7 @@ Hi ~ 我是陈素封，卡片创作通讯是我学习卡片创作的第八大洲
 
 地址：[http://tinyletter.com/cnfeat](http://tinyletter.com/cnfeat)
 
-![](http://openmindclub.qiniudn.com/omt/ProductList04.jpg?imageMogr2/thumbnail/!50p)
+![](http://openmindclub.qiniudn.com/omt/ProductList04.jpg?imageMogr2/thumbnail/!30p)
 
 ##  GitHub：CNFeat 
 
@@ -56,7 +56,7 @@ Hi ~ 我是陈素封，卡片创作通讯是我学习卡片创作的第八大洲
 
 地址：[https://github.com/cnfeat/GoodThingList](https://github.com/cnfeat/GoodThingList)
 
-![](http://openmindclub.qiniudn.com/omt/ProductList05.jpg?imageMogr2/thumbnail/!50p)
+![](http://openmindclub.qiniudn.com/omt/ProductList05.jpg?imageMogr2/thumbnail/!30p)
 
 
 ### ChangeLog
