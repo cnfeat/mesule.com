@@ -58,9 +58,17 @@ Hi ~ 我是陈素封，卡片创作通讯是我学习卡片创作的第八大洲
 
 ![](http://openmindclub.qiniudn.com/omt/ProductList05.jpg?imageMogr2/thumbnail/!30p)
 
+## 电报群：读立写生
+
+链接：https://t.me/joinchat/DBBMvQwAzVbD7RiiDe4Mbg
+
+官方唯一公开讨论群
+
+
 
 ### ChangeLog
 
+- 2017-08-09 增加电报群
 - 2017-07-11 新增产品列表
 
 
