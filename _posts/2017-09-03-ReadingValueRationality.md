@@ -1,7 +1,6 @@
 --- 
 layout: post
-title: title:读书学习的工具理性与价值理性
-
+title: 读书学习的工具理性与价值理性
 tags: 
 - maillist
 status: publish
