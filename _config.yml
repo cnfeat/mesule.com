@@ -5,8 +5,8 @@ url: http://www.mesule.com
 subscribe: http://www.mesule.com/feed
 exclude: [ README.md, newpost.rb ]
 domain: www.mesule.com
-author: CnFeat
-email: CnFeat@gmail.com
+author: CNFeat
+email: cnfeat@gmail.com
 twitterID: feat
 disqusShortname: cnfeat
 safe: true

@@ -4,7 +4,12 @@ title: 关于
 permalink: /about/
 ---
 
-Hi ~ 我是陈素封，卡片创作通讯是我学习卡片创作的第八大洲。我的作品列表如下：
+<center>
+    <p><img src="http://openmindclub.qiniudn.com/omt/WhiteAvatar.jpg" align="center"></p>
+</center>
+
+我是[陈素封](http://www.cnfeat.com/about/)，持续写作者，终身学习者，我的产品列表如下：
+
 
 ## 小密圈：每天写 1000 字改变自己
 
@@ -27,8 +32,6 @@ Hi ~ 我是陈素封，卡片创作通讯是我学习卡片创作的第八大洲
 
 地址：[www.cnfeat.com](http://www.cnfeat.com) 
 
-![](http://openmindclub.qiniudn.com/omt/ProductList03.jpg?imageMogr2/thumbnail/!30p)
-
 ## 邮件列表：卡片创作通讯
 
 书信体的个人生活与学习建议（与博客内容不同）。推荐内容包括认知科学、 卡片、创作等等。
@@ -37,7 +40,6 @@ Hi ~ 我是陈素封，卡片创作通讯是我学习卡片创作的第八大洲
 
 地址：[http://tinyletter.com/cnfeat](http://tinyletter.com/cnfeat)
 
-![](http://openmindclub.qiniudn.com/omt/ProductList04.jpg?imageMogr2/thumbnail/!30p)
 
 ##  GitHub：CNFeat 
 
@@ -45,9 +47,8 @@ Hi ~ 我是陈素封，卡片创作通讯是我学习卡片创作的第八大洲
 
 免费，不定期更新。
 
-地址：[https://github.com/cnfeat/GoodThingList](https://github.com/cnfeat/GoodThingList)
+好物清单：[https://github.com/cnfeat/GoodThingList](https://github.com/cnfeat/GoodThingList)
 
-![](http://openmindclub.qiniudn.com/omt/ProductList05.jpg?imageMogr2/thumbnail/!30p)
 
 ## 电报群：读立写生
 
@@ -57,9 +58,6 @@ Hi ~ 我是陈素封，卡片创作通讯是我学习卡片创作的第八大洲
 
 
 
-### ChangeLog
 
-- 2017-08-09 增加电报群
-- 2017-07-11 新增产品列表
 
 
